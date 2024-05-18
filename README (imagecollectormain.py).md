@@ -1,4 +1,4 @@
-# Card Searching (Algorithm)
+# Card Searching + Image (Algorithm)
 A small card searcher that uses Scryfall API. It's not perfect but it's just a fun little project I made. 
 Current issue is that I'm unable to code a page navigator.
 
