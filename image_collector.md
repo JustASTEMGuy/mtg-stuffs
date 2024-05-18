@@ -7,9 +7,15 @@ Current issue is that I'm unable to code a page navigator.
 > [!NOTE]
 > Do make sure you've installed the following modules before running the code.
 - urllib
+> pip install urllib
+
 - Pillow
+> pip install pillow
+
 - Scrython
-  
+> pip install scrython
+
+--------
 ```
 import urllib.request
 from PIL import Image
