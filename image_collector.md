@@ -5,7 +5,7 @@ Current issue is that I'm unable to code a page navigator.
 ## Modules
 
 > [!NOTE]
-> Do make sure you've installed the following modules.
+> Do make sure you've installed the following modules before running the code.
 - urllib
 - Pillow
 - Scrython
