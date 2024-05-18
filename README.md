@@ -79,6 +79,8 @@ class getCard:
 ```
 
 ## Main Loop
+>[!WARNING]
+> Do note that if your query isn't in any card's name, it'll just pop out an error. <sub>(Still working on that but I ultimately couldn't figure it out)</sub>
 ```
 fCard = getCard()
 while True:
@@ -98,7 +100,7 @@ while True:
 ```
 Overall, it's a fun project that I thought about a while back ago. 
 
-This is probably my first project that I create without any tutorials and full on referring documentations. 
+This is probably my first project that I create without any tutorials and full on referring only documentations. 
 
 I do plan to integrate it with a GUI like TKInter but I'll probably just going for other new projects. If you see this, you can give it a try, it's not much, and to other beginner devs out there, wish y'all continue to tinker with new projects and so on.
 
